@@ -1,0 +1,63 @@
+.spin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.money {
+    display: flex;
+    justify-content: center;
+    width: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: #CCCCFF;
+    text-align: center;
+    background-image: url("images/waterwaves.gif");
+  
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+h1 img{
+
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    max-width: 500px;
+}
+
+.links img{
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    max-width: 170px;
+    
+}
+
+p img{
+    
+    width: 100%;
+    max-width: 150px; 
+}
+.russia {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50px;
+    gap: 10px;
+    
+}
