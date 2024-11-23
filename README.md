@@ -1,4 +1,4 @@
-Website for artist, Remymane. Coded with basic HTML and CSS to display a 90s nostalgic feel.
+Website for artist, Remymane. Coded with basic HTML and CSS to display a 90s nostalgic feel. Images and gifs designed/sourced from Microsoft Word 2007 and The Internet Archive.
 
 https://remymane.com
 
