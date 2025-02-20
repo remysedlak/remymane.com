@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     padding-top: 10px;
+    margin-bottom: 50px;
 }
 .money {
     display: flex;
@@ -17,6 +18,7 @@ body {
     background-color: #CCCCFF;
     text-align: center;
     background-image: url("images/waterwaves.gif");
+    overflow-y: hidden;
 }
 h2 {
     text-align: center;
